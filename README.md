@@ -1,5 +1,9 @@
 # NEON VOID
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/wangconghua/best-game/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/wangconghua/best-game/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 A neon space shooter that plays offline in a desktop browser. Blast the
 swarm, chain kills for combo multipliers, grab power-ups, and spend bombs
 to clear the sky. Four enemy kinds, escalating waves, a best score that
